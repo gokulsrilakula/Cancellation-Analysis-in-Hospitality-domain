@@ -13,46 +13,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 • How will hotels be assisted in making pricing and promotional decisions?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Assumptions**
 
