@@ -39,17 +39,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 •	Most clients are coming from offline travel agents to make their reservations.
 
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Analysis and Findings**
 
@@ -93,7 +83,7 @@ Now let’s check the area from where guests are visiting the hotels and making 
 The graph shows reservations are cancelled when the average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellations.
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Suggestions**
 
