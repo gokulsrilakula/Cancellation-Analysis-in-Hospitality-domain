@@ -1,3 +1,59 @@
+![image](https://github.com/gokulsrilakula/Cancellation-Analysis-in-Hospitality-domain/assets/89767722/76a8c155-881b-41b2-82e7-d436ab83e06c)
+
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with several issues as a result, including fewer revenues and less-than-ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
+
+
+
+**Research Question**
+
+• What are the variables that affect hotel reservation cancellations?
+
+• How can we make hotel reservation cancellations better?
+
+• How will hotels be assisted in making pricing and promotional decisions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Assumptions**
 
 •	No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
